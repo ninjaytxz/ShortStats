@@ -6,7 +6,7 @@ Made using Python with libraries such as pandas, customtkinter, matplotlib and r
 ShortStats gives you reports about the total number of views and likes for shorts of each month of a selected year from a specific YouTube channel.
 
 ## Who can use it?
-Literally anyyone, it's mostly suited for content creators to see their channel's performance over the months or if you just wanna check how's your favorite channel doin lol.
+Literally anyone, it's mostly suited for content creators to see their channel's performance over the months or if you just wanna check how's your favorite channel doin lol.
 
 ## How does it look like?
 Well...like this:
