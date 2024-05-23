@@ -51,7 +51,7 @@ https://github.com/ninjaytxz/ShortStats/assets/146098895/17fe9fa2-cdd5-421f-98c1
 
 ## How to download?
 1) Click on the green **Code** button.
-2) Click **Donwload ZIP**.
+2) Click **Download ZIP**.
 3) Extract the file using WinRAR or any other similar software.
 
 ## Support
